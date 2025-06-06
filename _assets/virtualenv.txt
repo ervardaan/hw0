@@ -1,0 +1,21 @@
+To create a virtual environment in Python, you can use either the built-in venv module or the external virtualenv package.
+
+Using venv (built-in, Python 3.3+)
+Open your terminal and run:
+python -m venv myenv
+
+This creates a folder named myenv with the virtual environment.
+
+To activate it on Windows:
+myenv\Scripts\activate
+Using virtualenv (external package)
+First, install virtualenv if you haven't:
+pip install virtualenv
+
+Then create a virtual environment:
+virtualenv myenv
+
+Activate it on Windows:
+myenv\Scripts\activate
+
+Replace myenv with your desired environment name.

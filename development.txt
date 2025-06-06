@@ -1,0 +1,5 @@
+1) create a virtualenvironment either using a)venv or b) virtualenv
+2) create me.json file
+3)create requirements.txt file by pip freeze > requirements.txt
+4) create a new branch and push it
+5)merge this branch into main
