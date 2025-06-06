@@ -1,5 +1,7 @@
 1) create a virtualenvironment either using a)venv or b) virtualenv
+1b) then insall dependencies into the virtualenv using pip install -r requirements.txt
 2) create me.json file
 3)create requirements.txt file by pip freeze > requirements.txt
+3b) cretae a .gitignore file and .env file
 4) create a new branch and push it
 5)merge this branch into main
